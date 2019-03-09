@@ -1,0 +1,40 @@
+.formstyle {
+  margin: 10px;
+}
+
+.my-btn-style {
+  margin-left: 5px;
+}
+
+.stock-list {
+  float: left;
+  width: 20%;
+  position: relative;
+  left: 10px;
+}
+
+.bar-chart {
+  margin: 40px;
+}
+
+.bar-chart-container {
+  position: fixed;
+  border: solid;
+  border-color: black;
+  border-width: 1px;
+  top: 200px;
+  left: 400px;
+  margin: 20px;
+  width: 1000px;
+  height: 400px;
+  overflow: auto;
+}
+
+.barG:hover {
+  opacity: 0.5;
+}
+
+.copyrithtInfo {
+  position: absolute;
+  left: 50%;
+}
